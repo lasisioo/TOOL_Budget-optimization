@@ -1,6 +1,6 @@
 # TOOL: Budget Optimization
-> Authors: Grace Turke-Martinez, Dami Lasisi
 Budget optimization tool for TMG Digital
+> Authors: Grace Turke-Martinez, Dami Lasisi
 
 
 ## Project Overview:
